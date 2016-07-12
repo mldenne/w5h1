@@ -90,4 +90,4 @@ sqlite> UPDATE orders SET created_at = '2016-07-11 17:10:00.000000' WHERE id = 3
 --------------
 I decided to skip the Adventure Mode do the Epic Mode because a tutorial sounded fun - duh, should have known, but I got it done.
 
-![Alt text](/relative/path/to/screen_shot.jpg?raw=true "SQL Tutorial Screen Shot")
+![ScreenShot](screenshot.png)
