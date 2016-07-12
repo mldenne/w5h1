@@ -1,3 +1,5 @@
+Answers to Explorer Mode Questions:
+
 How many users are there?
 
 sqlite> SELECT COUNT(*) FROM users;
@@ -84,3 +86,8 @@ sqlite> INSERT INTO orders VALUES (378, 51, 68, 1, now);
 And because I didn’t read Slack and didn’t realize ‘now’ won’t work, I now have to update the time…
 
 sqlite> UPDATE orders SET created_at = '2016-07-11 17:10:00.000000' WHERE id = 378;
+
+--------------
+I decided to skip the Adventure Mode do the Epic Mode because a tutorial sounded fun - duh, should have known, but I got it done.
+
+![Alt text](/relative/path/to/screen_shot.jpg?raw=true "SQL Tutorial Screen Shot")
